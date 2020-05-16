@@ -1,0 +1,54 @@
+{
+	"background": {
+		"bg_image"        : "url(https://www.stockmanagementlabs.com/wp-content/uploads/2019/06/waves-export.svg)",
+		"bg_position"     : "bottom",
+		"bg_size"         : "contain",
+		"bg_repeat"       : "no-repeat",
+		"bg_color"        : "white"
+	},
+	"dash_background": {
+		"bg_image"        : "url(https://www.stockmanagementlabs.com/wp-content/uploads/2019/06/waves-export.svg)",
+		"bg_position"     : "bottom",
+		"bg_size"         : "cover",
+		"bg_repeat"       : "no-repeat",
+		"bg_color"        : "white"
+	},
+	"images": {
+		"logo"    : "https://www.stockmanagementlabs.com/wp-content/uploads/2019/06/atum-icon-export-pro.svg",
+		"top_left": "https://www.stockmanagementlabs.com/wp-content/uploads/2019/07/label-out-now.png"
+	},
+	"title": {
+		"text"      : "<strong>ATUM</strong><span>ExportPRO</span>",
+		"text_color": "black",
+		"text_size" : "",
+		"text_align": "center"
+	},
+	"version": {
+		"text"      : "v1.0.0",
+		"text_color": "var(--main-text-expanded)",
+		"background": "var(--secondary)"
+	},
+	"description": {
+		"text"           : "Finally HERE! The most advanced Export tool ever released and soon with free Import to complete the package. Generate manual or automated exports of almost any data in your stores.",
+		"text_color"     : "#adb5bd",
+		"text_size"      : "14px",
+		"text_align"     : "center",
+		"dash_text_align": "justify",
+		"padding"        : "0 9px 25px"
+	},
+	"buttons": [
+		{
+			"text"      : "More info",
+			"url"       : "https://www.stockmanagementlabs.com/addons/atum-export-pro",
+			"class"     : "btn btn-sm btn-warning",
+			"css"       : "width:130px"
+		},
+		{
+			"text"      : "Live demo",
+			"url"       : "https://demo.export-pro.stockmanagementlabs.com/",
+			"class"     : "btn btn-sm btn-outline-warning",
+			"css"       : "width:130px;"
+		}
+	],
+	"transient_key": "atum-export-pro-release"
+}
